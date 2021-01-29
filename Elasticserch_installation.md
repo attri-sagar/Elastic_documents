@@ -6,4 +6,4 @@
     sudo service elasticsearch stop
 
 ## Elasticsearch config file location 
-    /var/elasticsearch/elasticsearch.yml
+    /etc/elasticsearch/elasticsearch.yml
